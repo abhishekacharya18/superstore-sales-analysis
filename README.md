@@ -61,7 +61,7 @@ This project analyzes Superstore sales data to track performance, identify profi
 
 ## 📸 Dashboard Preview
 
-(Add your Power BI screenshots here)
+(https://abhishekacharya18.github.io/)
 
 ---
 
